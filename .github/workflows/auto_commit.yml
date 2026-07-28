@@ -25,8 +25,8 @@ jobs:
 
       - name: Configurar Git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "JKauanP"
+          git config user.email "258128489+JKauanP@users.noreply.github.com"
 
       - name: Executar script Python
         run: python main.py
